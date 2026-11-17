@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://staugustinerestoration.com/sitemap.xml
